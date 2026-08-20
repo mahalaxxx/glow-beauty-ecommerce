@@ -1,3 +1,3 @@
-# django-ecommerce-website
+# glow-beauty-ecommerce
 glow-beauty-ecommerce
 
